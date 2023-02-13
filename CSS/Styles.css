@@ -1,0 +1,36 @@
+body{
+    background-color:#B9F3E4 ;
+ }
+
+ h1{
+    color: #F806CC;
+
+ }
+
+ h3{
+    color: #F806CC;
+ }
+
+ hr{
+    /*background-color: white;
+    border-style: dotted;  
+    border-style: dashed;
+    border-style: double;
+    border-style: groove;
+    border-style: hidden;
+    border-style: inherit;
+    border-style: inset;
+    border-style: ridge;*/
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 6px;
+    width: 70%;
+
+
+    /*height: 2px;
+    height: 0px;
+    width: 70%;*/
+
+ }
